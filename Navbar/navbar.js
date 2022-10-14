@@ -13,6 +13,7 @@ const Navbar = () => {
                 <li>Attendance</li>
                 <li>Marks</li>
                 <li>Transcript</li>
+                <li>Feedback</li>
                 
             </ul>
             </div>
