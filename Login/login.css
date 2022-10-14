@@ -1,0 +1,9 @@
+.email{
+    display: inline-flex;
+    width: 3rem;
+}
+.pwd{
+    display: inline-flex;
+    width: 5rem; 
+    
+}
